@@ -21,7 +21,6 @@ I've organized my work into a comprehensive repository that showcases my progres
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/thinhqd)
 
-Testing
 ---
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
