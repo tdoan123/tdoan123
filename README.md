@@ -10,25 +10,13 @@ I've organized my work into a comprehensive repository that showcases my progres
 
 👉 [**Explore My Data Learning Journey**](https://github.com/tdoan123/data-learning-journey)
 
-### What You'll Find There:
-
-- **Projects** - Real-world data analysis projects
-  - Video Sale Project - Analysis of video sales data
-- **Python** - Scripts, tutorials, and resources
-- **Data Visualization** - Charts, graphs, and visual analyses
-- **Courses** - Notes and projects from data-related courses
-- **SQL** - Queries, database designs, and related work
-
-## Skills
+## Skills [TBU] 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL
 - Data Visualization
 - Data Analysis
-- [Other relevant skills]
 
-## Currently Learning
-- [Topic you're currently studying]
-- [New tool or technology you're exploring]
+## Currently Learning [TBU] 
 
 ## Connect With Me
 - [LinkedIn](https://linkedin.com/in/thinhdoan)
