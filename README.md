@@ -19,7 +19,7 @@ I've organized my work into a comprehensive repository that showcases my progres
 ## Currently Learning [TBU] 
 
 ## Connect With Me
-- [LinkedIn](https://linkedin.com/in/thinhdoan)
+- [LinkedIn](www.linkedin.com/in/thinhqd)
 
 
 ---
