@@ -10,7 +10,7 @@ I've organized my work into a comprehensive repository that showcases my progres
 
 👉 [**Explore My Data Learning Journey**](https://github.com/tdoan123/data-learning-journey)
 
-## Skills [TBU] 
+## Skills
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL
 - Data Visualization
