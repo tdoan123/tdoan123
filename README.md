@@ -15,8 +15,7 @@ I've organized my work into a comprehensive repository that showcases my progres
 - SQL
 - Data Visualization
 - Data Analysis
-
-## Currently Learning [TBU] 
+- Financial modelling 
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/thinhqd)
