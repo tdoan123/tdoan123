@@ -8,6 +8,7 @@ I'm passionate about data analysis, visualization, and using Python and SQL to e
 ## My Data Learning Journey
 I've organized my work into a comprehensive repository that showcases my progress and projects:
 
+
 - Projects - Real-world data projects I've completed
   - [Video Sale Project](data_learning_journey/Projects/Video_Sale_Project/README.md) - PowerBI Dashboard analyzing video sales data from 1981-2015
 - [Python](data_learning_journey/Python) - Python scripts, tutorials, and resources
@@ -18,11 +19,12 @@ I've organized my work into a comprehensive repository that showcases my progres
 - SQL
 - Data Visualization
 - Data Analysis
+
 - Financial modelling
+=======
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/thinhqd)
-
 
 ---
 
