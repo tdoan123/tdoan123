@@ -11,8 +11,8 @@ I've organized my work into a comprehensive repository that showcases my progres
 
 - Projects - Real-world data projects I've completed
   - [Video Sale Project](https://github.com/tdoan123/data-learning-journey/tree/main/Projects/Video_Sale_Project) - PowerBI Dashboard analyzing video sales data from 1981-2015
-- [Python](data_learning_journey/Python) - Python scripts, tutorials, and resources
-- [SQL](data_learning_journey/SQL) - SQL queries, database designs, and related projects
+- [Python](https://github.com/tdoan123/data-learning-journey/tree/main/Python) - Python scripts, tutorials, and resources
+- [SQL](https://github.com/tdoan123/data-learning-journey/tree/main/SQL) - SQL queries, database designs, and related projects
   
 ## Skills 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
