@@ -8,15 +8,17 @@ I'm passionate about data analysis, visualization, and using Python and SQL to e
 ## My Data Learning Journey
 I've organized my work into a comprehensive repository that showcases my progress and projects:
 
-👉 [**Explore My Data Learning Journey**](https://github.com/tdoan123/data-learning-journey)
-
-## Skills [TBU] 
+- Projects - Real-world data projects I've completed
+  - [Video Sale Project](data_learning_journey/Projects/Video_Sale_Project/README.md) - PowerBI Dashboard analyzing video sales data from 1981-2015
+- [Python](data_learning_journey/Python) - Python scripts, tutorials, and resources
+- [SQL](data_learning_journey/SQL) - SQL queries, database designs, and related projects
+  
+## Skills 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - SQL
 - Data Visualization
 - Data Analysis
-
-## Currently Learning [TBU] 
+- Financial modelling
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/thinhqd)
