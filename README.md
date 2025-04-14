@@ -10,7 +10,7 @@ I've organized my work into a comprehensive repository that showcases my progres
 
 
 - Projects - Real-world data projects I've completed
-  - [Video Sale Project](data_learning_journey/Projects/Video_Sale_Project/README.md) - PowerBI Dashboard analyzing video sales data from 1981-2015
+  - [Video Sale Project](Projects/Video_Sale_Project) - PowerBI Dashboard analyzing video sales data from 1981-2015
 - [Python](data_learning_journey/Python) - Python scripts, tutorials, and resources
 - [SQL](data_learning_journey/SQL) - SQL queries, database designs, and related projects
   
