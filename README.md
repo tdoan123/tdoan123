@@ -21,6 +21,15 @@ I've organized my work into a comprehensive repository that showcases my progres
 - Data Analysis
 - Financial modelling
 
+## Certifications
+[IBM Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/0YRKNETZ2VUZ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)                              
+
+[SQL (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/cb95fb468250)
+
+[SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/iframe/f917d3903dda)
+
+[SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/iframe/abbcdc99692e)
+
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/thinhqd)
 
