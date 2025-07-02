@@ -8,7 +8,6 @@ I'm passionate about data analysis, visualization, and using Python and SQL to e
 ## My Data Journey
 I've organized my work into a comprehensive repository that showcases my progress and projects:
 
-
 - Projects 
   - [IT helpdesk analysis](data_learning_journey\Projects\IT_helpdesk\README.md) - A ChatGPT-driven analytics pipeline: generating a mockup-based sample dataset, producing bulk measures, and building a report mirroring the mockup layout. 
   - [Churn Report](data_learning_journey\Projects\Churn_Report\README.md) -  A full-stack telecom customer-churn analytics pipeline: database management, ETL orchestration, data transformation, and BI visualization.
