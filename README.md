@@ -10,11 +10,11 @@ I've organized my work into a comprehensive repository that showcases my progres
 
 - Projects 
   - [IT helpdesk analysis](data_learning_journey\Projects\IT_helpdesk\README.md) - A ChatGPT-driven analytics pipeline: generating a mockup-based sample dataset, producing bulk measures, and building a report mirroring the mockup layout. 
-  - [Churn Report](data_learning_journey\Projects\Churn_Report\README.md) -  A full-stack telecom customer-churn analytics pipeline: database management, ETL orchestration, data transformation, and BI visualization.
-  - [Ecommerce Site Performance](data_learning_journey\Projects\Ecommerce_Performance_Report\README.md) -  A full-stack e-commerce analytics case study: database design, SQL-driven insights, Excel processing, and stakeholder-ready reports.
-  - [Video Sale Project](data_learning_journey/Projects/Video_Sale_Project/README.md) - PowerBI Dashboard analyzing video sales data from 1981-2015.
-- [Python](data_learning_journey/Python) - Python scripts, tutorials, and resources
-- [SQL](data_learning_journey/SQL) - SQL queries, database designs, and related projects
+  - [Churn Report](https://github.com/tdoan123/data-learning-journey/tree/main/Projects/Churn_Report) -  A full-stack telecom customer-churn analytics pipeline: database management, ETL orchestration, data transformation, and BI visualization.
+  - [Ecommerce Site Performance](https://github.com/tdoan123/data-learning-journey/tree/main/Projects/Ecommerce_Performance_Report) -  A full-stack e-commerce analytics case study: database design, SQL-driven insights, Excel processing, and stakeholder-ready reports.
+  - [Video Sale Project](https://github.com/tdoan123/data-learning-journey/tree/main/Projects/Video_Sale_Project) - PowerBI Dashboard analyzing video sales data from 1981-2015.
+- [Python](https://github.com/tdoan123/data-learning-journey/tree/main/Python) - Python scripts, tutorials, and resources
+- [SQL](https://github.com/tdoan123/data-learning-journey/tree/main/SQL) - SQL queries, database designs, and related projects
   
 ## Skills 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
