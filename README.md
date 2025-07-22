@@ -9,7 +9,7 @@ I'm passionate about data analysis, visualization, and using Python and SQL to e
 I've organized my work into a comprehensive repository that showcases my progress and projects:
 
 - Projects 
-  - [IT helpdesk analysis](data_learning_journey\Projects\IT_helpdesk\README.md) - A ChatGPT-driven analytics pipeline: generating a mockup-based sample dataset, producing bulk measures, and building a report mirroring the mockup layout. 
+  - [IT helpdesk analysis](data_learning_journey\Projects\IT_helpdesk\README.md) - A ChatGPT-driven analytics pipeline: generating a mockup-based sample dataset, producing bulk measures, and building a report mirroring the mockup layout.
   - [Churn Report](https://github.com/tdoan123/data-learning-journey/tree/main/Projects/Churn_Report) -  A full-stack telecom customer-churn analytics pipeline: database management, ETL orchestration, data transformation, and BI visualization.
   - [Ecommerce Site Performance](https://github.com/tdoan123/data-learning-journey/tree/main/Projects/Ecommerce_Performance_Report) -  A full-stack e-commerce analytics case study: database design, SQL-driven insights, Excel processing, and stakeholder-ready reports.
   - [Video Sale Project](https://github.com/tdoan123/data-learning-journey/tree/main/Projects/Video_Sale_Project) - PowerBI Dashboard analyzing video sales data from 1981-2015.
