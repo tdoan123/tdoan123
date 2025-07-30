@@ -33,7 +33,7 @@ I've organized my work into a comprehensive repository that showcases my progres
 [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/iframe/abbcdc99692e)
 
 ## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/thinhqd)
+[LinkedIn](https://www.linkedin.com/in/thinhqd)  [Personal Site](http://www.doantq.com)
 
 ---
 
